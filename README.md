@@ -14,3 +14,16 @@ cd EfficientPoints
 git fetch origin
 git checkout -b branch1 origin/branch1
 ```
+### 変更をリモートに反映
+
+```
+git add .
+git commit -m "メッセージを書いて下さい！"
+git push
+```
+
+### ブランチを削除
+
+```
+git branch -d branch1
+```
