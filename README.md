@@ -8,3 +8,9 @@ https://eztas.github.io/EfficientPoints/index.html
 git clone https://github.com/Eztas/EfficientPoints.git
 cd EfficientPoints
 ```
+
+### リモートのブランチをローカルへ落とし込む(ローカルにbranch1がない)
+```
+git fetch origin
+git checkout -b branch1 origin/branch1
+```
