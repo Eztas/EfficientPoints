@@ -1,6 +1,6 @@
 # EfficientPoints
 
-https://eztas.github.io/EfficientPoints/index.html
+https://eztas.github.io/GithubTest/index.html
 
 # gitの手順
 ## リモートリポジトリをローカルにクローン。作業時はcdを忘れずに。
