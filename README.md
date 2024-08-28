@@ -2,6 +2,8 @@
 
 https://eztas.github.io/GithubTest/index.html
 
+https://github-test-mu.vercel.app/
+
 # gitの手順
 ## リモートリポジトリをローカルにクローン。作業時はcdを忘れずに。
 ```
@@ -50,3 +52,8 @@ git fetch origin
 git checkout branch1
 git merge origin/branch1
 ```
+
+# 参考文献
+https://note.com/wecken/n/n73196eb22a51 (失敗)
+
+https://note.com/shufugaishi/n/ncd5854ad64a0 (成功?)
